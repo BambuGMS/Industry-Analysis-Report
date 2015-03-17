@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Weekly Summary"
-tags: [weekly, meeting, Benoit Serot, Pongsathorn Tiranun, Konstantin Neumann]
-description: Weekly meeting minutes from the Bambu Team
+title: "Meeting Summary"
+tags: [summary, meeting, Benoit Serot, Pongsathorn Tiranun, Konstantin Neumann]
+description: Meeting notes from the Bambu Team
 last_updated: 03/17/2015
 ---
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
-|16.03.2015| 15:30 PM | Study Room Building 20
+|DD.MM.2015| XX | XX
 
 
 ----------
@@ -17,11 +17,13 @@ last_updated: 03/17/2015
 Meeting Minutes
 ------
 
- **TOP for today** 
+ **TOP FOR TODAY** 
 
- **Progress**
+1.
+2.
  
- **OPEN BUSINESS**
+ **PROGRESS**
+
 
  **COMMITMENTS**
 
@@ -29,7 +31,7 @@ Meeting Minutes
 
 ***Pongsathorn Tiranun***:
 
-***Konstantin Neumann***
+***Konstantin Neumann***:
 
 
 
@@ -39,7 +41,7 @@ Meeting Minutes
 
 **DIGITAL SIGNATURES**
 
-|**Benoit Serot** |**Pongsathorn Tiranun**| |**Konstantin Neumann**|
-| ------------- |----------------| |----------------|
-|Signed| Signed|Signed|
+|**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|
+| ------------- |----------------|----------------|
+|Signed| Signed|Signed
 
