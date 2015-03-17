@@ -17,18 +17,24 @@ last_updated: 03/17/2015
 Meeting Minutes
 ------
 
- **TOP for today** 
+ **TOP for today**
+  
 1. Set up Git and GitHub
+
 2. Decide about a topic for the Industry-Analysis-Report
 
- **Progress**
+ **PROGRESS**
 ***1. Set up Git and GitHub***
+
 Pongsathorn gave an introduction to Git. Konstantin and Benoit downloaded it and set it up on their machines. Getting used to Git by playing around with some test-files. Set up our team as an organization at GitHub called BambuGMS. Faced some problems regarding pushing and pulling.
 
 ***2. Decide about a topic for the Industry-Analysis-Report***
+
 Brainstorm about possible topics, we are interested in for the Industry-Analysis-Report. Agreed on Fuel Cell as a topic.
  
  **OPEN BUSINESS**
+ 
+ ---
 
  **COMMITMENTS**
 
@@ -51,7 +57,7 @@ Brainstorm about possible topics, we are interested in for the Industry-Analysis
 
 **DIGITAL SIGNATURES**
 
-|**Benoit Serot** |**Pongsathorn Tiranun**| |**Konstantin Neumann**|
-| ------------- |----------------| |----------------|
-|Signed|Signed|Signed|
+|**Benoit Serot** |**Pongsathorn Tiranun** |**Konstantin Neumann**|
+| ------------- |---------------- |----------------|
+|Signed|Signed|Signed
 
