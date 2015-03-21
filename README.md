@@ -13,6 +13,8 @@ Group Members:
         
         Konstantin Neumann
 
+	Shouka Arabi
+
 Introduction about the team
 
 - Why the name Bambu? (Bambu shares the same pronunciation as the plant 'bamboo' which is strong, fast growing,  has multipurpose utility , and it is also a favorite choice for Chinese fine arts and paintings)
