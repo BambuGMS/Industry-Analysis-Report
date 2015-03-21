@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meeting Summary"
-tags: [summary, meeting, Benoit Serot, Pongsathorn Tiranun, Konstantin Neumann]
+tags: [summary, meeting, Benoit Serot, Pongsathorn Tiranun, Konstantin Neumann, Shouka Arabi]
 description: Meeting notes from the Bambu Team
 last_updated: 03/17/2015
 ---
@@ -33,7 +33,7 @@ Meeting Minutes
 
 ***Konstantin Neumann***:
 
-
+***Shouka Arabi***:
 
 
 ----------
@@ -41,7 +41,7 @@ Meeting Minutes
 
 **DIGITAL SIGNATURES**
 
-|**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|
-| ------------- |----------------|----------------|
-|Signed| Signed|Signed
+|**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|**Shouka Arabi**
+| ------------- |----------------|----------------|---------------|
+|Signed| Signed|Signed|Signed
 
