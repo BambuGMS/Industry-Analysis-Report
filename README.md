@@ -12,8 +12,9 @@ Group Members:
         Pongsathorn Tiranun
         
         Konstantin Neumann
+        
+        Shouka Arabi
 
-	Shouka Arabi
 
 Introduction about the team
 
