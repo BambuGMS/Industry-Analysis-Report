@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meeting Summary"
-tags: [summary, meeting, Benoit Serot, Pongsathorn Tiranun, Konstantin Neumann, logic model, fuel cell]
+tags: [summary, meeting, Benoit Serot, Pongsathorn Tiranun, Konstantin Neumann, Shouka Arabi, logic model, fuel cell]
 description: Meeting notes from the Bambu Team
 last_updated: 03/21/2015
 ---
