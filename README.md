@@ -13,7 +13,8 @@ Industry Analysis Report for GMS 2015
 
         Konstantin Neumann
 
-				Shouka Arabi
+        Shouka Arabi
+
 
 **Introduction about the team**
 
@@ -22,6 +23,7 @@ Industry Analysis Report for GMS 2015
 
 - Why Bambu and not Bamboo?
 	The last alphabet 'U' makes our group name stands out and therefore represents us!
+
 
 **Outline for the report**
 
