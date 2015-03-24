@@ -62,4 +62,4 @@ History, industry growth, opportunities,forecast, limitations and risks,products
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|**Shouka Arabi**
 | ------------- |----------------|----------------|----------------|
-|| |signed|
+|signed| |signed|
