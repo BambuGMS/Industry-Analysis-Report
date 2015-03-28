@@ -1,19 +1,21 @@
 # Industry-Analysis-Report
 Industry Analysis Report for GMS 2015
 
+![Bambu Logo](https://github.com/BambuGMS/Industry-Analysis-Report/blob/master/Resources/Logo%20v3.png)
+
 **Group Name:**
 
-        Bambu
+    Bambu
 
 **Group Members:**
 
-        Benoit Serot
+    Benoit Serot
 
-        Pongsathorn Tiranun
+    Pongsathorn Tiranun
 
-        Konstantin Neumann
+    Konstantin Neumann
 
-        Shouka Arabi
+    Shouka Arabi
 
 
 **Introduction about the team**
