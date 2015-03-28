@@ -1,5 +1,9 @@
-# Industry-Analysis-Report
-Industry Analysis Report for GMS 2015
+# INDUSTRY-ANALYSIS-REPORT
+
+___
+___
+
+###Industry Analysis Report for GMS 2015
 
 ![Bambu Logo](https://github.com/BambuGMS/Industry-Analysis-Report/blob/master/Resources/Logo%20v3.png)
 
@@ -7,6 +11,7 @@ Industry Analysis Report for GMS 2015
 
     Bambu
 
+___
 **Group Members:**
 
     Benoit Serot
@@ -18,33 +23,38 @@ Industry Analysis Report for GMS 2015
     Shouka Arabi
 
 
-**Introduction about the team**
+___
 
-- Why the name Bambu?
-	Bambu shares the same pronunciation as the plant 'bamboo' which is strong, fast growing,  has multipurpose utility , and it is also a favorite choice for Chinese fine arts and paintings.
+###**Introduction about the Team**
 
-- Why Bambu and not Bamboo?
-	The last alphabet 'U' makes our group name stands out and therefore represents us!
+- _Why the name Bambu?_  
+	Bambu shares the same pronunciation as the plant **_'bamboo'_** which is strong, fast growing,  has multipurpose utility , and it is also a favorite choice for Chinese fine arts and paintings.
 
+- _Why Bambu and not Bamboo?_  
+	The last alphabet **_'U'_** makes our group name stands out and therefore represents us!
 
-**Outline for the report**
+___
 
-1. Introduction
-  * History
-  * Comparison to conventional technologies
-  * Industry overview
+###**Outline for the Report**
 
-2. Product perspective
-  * Technology
-  * Application
+**1. Introduction**  
+* History
+* Comparison to conventional technologies
+* Industry overview
 
-3. Market/Industry perspective
-  * Competitive environement
-  * Regional outlooks
+**2. Product perspective**
+* Technology
+* Application  
 
-4. Law and governmental regulations
+**3. Market/Industry perspective**
+* Competitive environment
+* Regional outlooks  
 
-5. Future perspective
-  	* Opportunitites
-    * Limitations/risks
-    * Forecast
+**4. Law and governmental regulations**  
+
+**5. Future perspective**
+* Opportunities
+* Limitations/risks
+* Forecast
+
+___
