@@ -5,11 +5,7 @@ ___
 
 ###Industry Analysis Report for GMS 2015
 
-![Bambu Logo](https://github.com/BambuGMS/Industry-Analysis-Report/blob/master/Resources/Logo%20v3.png)
-
-**Group Name:**
-
-    Bambu
+![Bambu Logo](https://github.com/BambuGMS/Industry-Analysis-Report/blob/master/Resources/Logo%20slimm.png)
 
 ___
 **Group Members:**
