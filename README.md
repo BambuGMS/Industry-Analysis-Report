@@ -33,22 +33,25 @@ ___
 
 ###**Outline for the Report**
 
-**1. Introduction**  
+**1. Introduction (Konstantin)**
+* Intention of the Report  
 * History
-* Comparison to conventional technologies
+* Fuel Cell as an alternative
 * Industry overview
 
-**2. Product perspective**
+**2. Product perspective (Benoit)**
 * Technology
 * Application  
 
-**3. Market/Industry perspective**
+**3. Market/Industry perspective (Pongsathron)**
 * Competitive environment
 * Regional outlooks  
 
-**4. Law and governmental regulations**  
+**4. Law and governmental regulations (Konstantin)**  
 
-**5. Future perspective**
+**5. Comparison to other technologies (Shouka)**
+
+**6. Future perspective (TBD)**
 * Opportunities
 * Limitations/risks
 * Forecast
