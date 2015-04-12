@@ -37,7 +37,7 @@ Logic Model V1
 
 |**Rationales**|**Assumptions**|
 | ------------- | ------------- |
-| IAR beneficial for stakeholder/costumer, researchers, industry | Enough data available |
+| IAR beneficial for stakeholder/customer, researchers, industry, and curious people | Enough data available |
 || No group member drop class |
 || There is a future for fuel cells |
 
