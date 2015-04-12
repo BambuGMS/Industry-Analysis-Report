@@ -29,7 +29,7 @@ Logic Model V1
 |**Resources**|**Activities**|**Outcomes**|**Outputs**|
 | ------------- | ------------- | ------------- | ------------- |
 | 4 Team members  | Read IAR, extract structure | IAR | Have knowledge about global fuel cell industry (e.g. technology, application, manufacturers, risks, opportunities |
-| Lab & Supervisor | Build a structure for our IAR 	Read about fuel cell and surrounding industry | Collaboration with chemistry lab | Being able to identify needs of the market |
+| Lab & Supervisor | Build a structure for our IAR | Collaboration with chemistry lab | Being able to identify needs of the market |
 | Documentation about IAR | Read about fuel cell and surrounding industry | |	Ability to write an IAR |
 | Documentation about fuel cells | Collect data  || IAR available for other people |
 | Office supplies | | | | |
