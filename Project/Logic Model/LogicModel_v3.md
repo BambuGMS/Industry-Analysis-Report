@@ -48,4 +48,4 @@ Logic Model V1
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|**Shouka Arabi**|
 | ------------- | ------------- | ------------- | ------------- |
-|signed| | | |
+|signed|signed | | |
