@@ -77,4 +77,4 @@ Meeting Minutes
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|**Shouka Arabi**
 | ------------- |----------------|----------------|---------------|
-|signed| ||
+|signed|signed ||
