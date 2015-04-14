@@ -32,7 +32,7 @@ Logic Model V1
 | Lab & Supervisor | Build a structure for our IAR | Collaboration with chemistry lab | Being able to identify needs of the market |
 | Documentation about IAR | Read about fuel cell and surrounding industry | |	Ability to write an IAR |
 | Documentation about fuel cells | Collect data  || IAR available for other people |
-| Office supplies | | | | |
+| Office supplies | Interact with Chemistry Lab | | | |
 
 
 |**Rationales**|**Assumptions**|
