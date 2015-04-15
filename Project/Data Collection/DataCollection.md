@@ -17,38 +17,66 @@ last_updated: 04/15/2015
 
 ###Product Perspectives###
 
-| **Question** | **Indicators** | **Sources/ Sample** | **Timing** |
+| **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
-|  |  |  |  |  |
+| How do fuel cells work?                       | `Principle` `Structure` `Components` `Chemical reactions`               | Explain, Display principle      | [Tsinghua Chemistry Lab], [1], [2], [3], [4], [5] | 22.04.2015 |
+| How to find Hydrogen?                         | `Natural processes` `Chemical processes` `Cost in energy` `Price`       | Analyse, Compare                | [6], [7], [8], [9], [10], [11]                    | 22.04.2015 |
+| How to store and transport Hydrogen?          | `Compression methods` `Storage facilities` `Storage reliability`        | Analyse, Draw consequences      | [1], [10], [11], [12], [13], [14]                 | 25.04.2015 |
+| What are the different types of fuel cells?   | `Number` `Names`                                                        | Compare                         | [15], [16], [17]                                  | 15.04.2015 |
+| What are their characteristics                | `Components` `Reaction` `Operating Temperature` `Power output range` `Size` `Weight` `Price` `Manufaturing constraints` | Display, Analyse, Rank | [1], [5], [15], [16], [17], [18] | 15.04.2015 |
+| What applications can then be found for them? | `Categorization of applications` `Relationship with the characteristics` | Sort, Link with characteristics | [18], [19]                                        | 22.04.2015 |
 
 ###Market Perspectives###
 
-| **Question** | **Indicators** | **Sources/ Sample** | **Timing** |
+| **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
 |  |  |  |  |  |
 
 ###Law & Governmental Influence###
 
-| **Question** | **Indicators** | **Sources/ Sample** | **Timing** |
+| **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
 |  |  |  |  |  |
 
 ###Comparison with Other Technologies###
 
-| **Question** | **Indicators** | **Sources/ Sample** | **Timing** |
+| **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
 |  |  |  |  |  |
 
 ###Future Perspectives###
 
-| **Question** | **Indicators** | **Sources/ Sample** | **Timing** |
+| **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
-|  |  |  |  |  |
+| What are the innovation fields? | `Company names` `Projects` `Research perspectives` | Review, Analyse |  | 20.05.2015 |
+| What are the sales forecast?    | `MW to be sold` `Units to be shipped` `Projects`   | Review          |  | 20.05.2015 |
+| What is the next Milestone?     | `Expected industry event/ step` `Date` | Review, Analysis |  | 20.05.2015 |
+
+[Tsinghua Chemistry Lab]: ()
+[1]: http://en.wikipedia.org/wiki/Fuel_cell
+[2]: http://www.nedstack.com/technology/fuel-cell-setup#up
+[3]: http://www.nedstack.com/technology/fuel-cell-principle
+[4]: http://www.nedstack.com/technology/fuel-cell-faq
+[5]: http://americanhistory.si.edu/fuelcells/basics.htm
+[6]: http://www.hydrogen.energy.gov/production.html
+[7]: http://www.nrel.gov/hydrogen/proj_production_delivery.html
+[8]: http://www.eia.gov/energyexplained/index.cfm?page=hydrogen_production
+[9]: http://www.eia.gov/oiaf/servicerpt/hydro/pdf/oiafcneaf(08)04.pdf
+[10]: http://www.fuelcelltoday.com/applications/fuel-and-infrastructure
+[11]: http://www.fuelcells.org/base.cgim?template=hydrogen_basics
+[12]: http://energy.gov/eere/fuelcells/hydrogen-storage
+[13]: http://www.hydrogen.energy.gov/science.html
+[14]: http://energy.gov/eere/fuelcells/hydrogen-delivery
+[15]: http://www.nedstack.com/technology/fuel-cell-types
+[16]: http://www.fuelcelltoday.com/technologies
+[17]: http://www.fuelcells.org/base.cgim?template=types_of_fuel_cells
+[18]: http://www.fuelcells.org/pdfs/TheFuelCellIndustryReview2014.pdf
+[19]: http://www.fuelcelltoday.com/applications
 
 ----------
 
 **DIGITAL SIGNATURES**
 
-|**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|**Shouka Arabi**|
+| **Benoit Serot** | **Pongsathorn Tiranun** | **Konstantin Neumann** | **Shouka Arabi** |
 | ------------------ |
 |  |  |  |  |
