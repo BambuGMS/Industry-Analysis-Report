@@ -19,12 +19,12 @@ last_updated: 04/15/2015
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
-| How do fuel cells work?                       | `Principle` `Structure` `Components` `Chemical reactions`               | Explain, Display principle      | [Tsinghua Chemistry Lab], [1], [2], [3], [4], [5] | 22.04.2015 |
-| How to find Hydrogen?                         | `Natural processes` `Chemical processes` `Cost in energy` `Price`       | Analyse, Compare                | [6], [7], [8], [9], [10], [11]                    | 22.04.2015 |
-| How to store and transport Hydrogen?          | `Compression methods` `Storage facilities` `Storage reliability`        | Analyse, Draw consequences      | [1], [10], [11], [12], [13], [14]                 | 25.04.2015 |
-| What are the different types of fuel cells?   | `Number` `Names`                                                        | Compare                         | [15], [16], [17]                                  | 15.04.2015 |
-| What are their characteristics                | `Components` `Reaction` `Operating Temperature` `Power output range` `Size` `Weight` `Price` `Manufaturing constraints` | Display, Analyse, Rank | [1], [5], [15], [16], [17], [18] | 15.04.2015 |
-| What applications can then be found for them? | `Categorization of applications` `Relationship with the characteristics` | Sort, Link with characteristics | [18], [19]                                        | 22.04.2015 |
+| How do fuel cells work?                       | `Principle` `Structure` `Components` `Chemical reactions`                                                               | Explain, Display principle      | [Tsinghua Chemistry Lab], [1], [2], [3], [4], [5]      | 22.04.2015 |
+| How to find Hydrogen?                         | `Natural processes` `Chemical processes` `Cost in energy` `Price`                                                       | Analyse, Compare                | [6], [7], [8], [9], [10], [11], [20], [21], [22], [23] | 22.04.2015 |
+| How to store and transport Hydrogen?          | `Compression methods` `Storage facilities` `Storage reliability`                                                        | Analyse, Draw consequences      | [1], [10], [11], [12], [13], [14], [21], [24]          | 25.04.2015 |
+| What are the different types of fuel cells?   | `Number` `Names`                                                                                                        | Compare                         | [15], [16], [17]                                       | 15.04.2015 |
+| What are their characteristics                | `Components` `Reaction` `Operating Temperature` `Power output range` `Size` `Weight` `Price` `Manufaturing constraints` | Display, Analyse, Rank          | [1], [5], [15], [16], [17], [18]                       | 15.04.2015 |
+| What applications can then be found for them? | `Categorization of applications` `Relationship with the characteristics`                                                | Sort, Link with characteristics | [18], [19]                                             | 22.04.2015 |
 
 ###Market Perspectives###
 
@@ -50,7 +50,7 @@ last_updated: 04/15/2015
 | ------------------ |
 | What are the innovation fields? | `Company names` `Projects` `Research perspectives` | Review, Analyse |  | 20.05.2015 |
 | What are the sales forecast?    | `MW to be sold` `Units to be shipped` `Projects`   | Review          |  | 20.05.2015 |
-| What is the next Milestone?     | `Expected industry event/ step` `Date` | Review, Analysis |  | 20.05.2015 |
+| What is the next Milestone?     | `Expected industry event/ step` `Date`             | Review, Analyse |  | 20.05.2015 |
 
 [Tsinghua Chemistry Lab]: ()
 [1]: http://en.wikipedia.org/wiki/Fuel_cell
@@ -72,6 +72,11 @@ last_updated: 04/15/2015
 [17]: http://www.fuelcells.org/base.cgim?template=types_of_fuel_cells
 [18]: http://www.fuelcells.org/pdfs/TheFuelCellIndustryReview2014.pdf
 [19]: http://www.fuelcelltoday.com/applications
+[20]: http://en.wikipedia.org/wiki/Hydrogen_production#Partial_oxidation
+[21]: http://www.afdc.energy.gov/fuels/hydrogen_production.html
+[22]: http://www.h2carblog.com/?p=461
+[23]: http://heshydrogen.com/hydrogen-fuel-cost-vs-gasoline/
+[24]: http://www.transportation.anl.gov/pdfs/TA/351.pdf
 
 ----------
 

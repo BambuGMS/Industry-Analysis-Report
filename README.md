@@ -40,8 +40,58 @@ ___
 * Industry overview
 
 **2. Product perspective (Benoit)**
-* Technology
-* Application  
+
+***1. Introduction***
+1. Principle
+
+`Reaction steps`
+
+2. Set up of a fuel cell
+
+`Components`
+
+***2. Technologies***
+1. PEMFC
+2. AFC
+3. PAFC
+4. SOFC
+5. MCFC
+6. DMFC
+7. Summary
+* Comparison
+
+`Cost` `Temperature` `Output` `Size` `Fuel`
+
+* Most important technologies
+
+`Quick outlook and introduction to applications`
+
+***3. Applications***
+1. Categorisation choices
+
+`Conventions`
+
+2. Tranports
+3. Portable
+4. Stationnary
+
+***4. Infrastructures*** (Do not insist too much on that part)
+1. Distribution facilities
+	1. Delivery `different delivery schemes` `different components`
+      * Pipeline
+
+			* Tube Trailers
+			* Liquified Hydrogen Tankers
+
+  2. Hydrogen Storage
+
+`technological issues` `but also demand issues`
+
+2. Hydrogen production (Most important ones)
+	1. Introduction `Production modes`
+  2. Electrolysis
+  3. Steam Reforming
+	4. Summary `Supply` `Cost` `Environmental impact`
 
 **3. Market/Industry perspective (Pongsathron)**
 * Competitive environment
