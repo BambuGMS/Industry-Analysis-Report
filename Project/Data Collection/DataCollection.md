@@ -36,7 +36,8 @@ last_updated: 04/15/2015
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
-|  |  |  |  |  |
+| What are governmental influences in:? <li>Japan</li><li>USA</li><li>Germany</li>  | `height of subsidies` `laws and guidelines` `other forms of support`  | Analyse, Show | [25], [26] | 29.04.2015 |
+|In which degree is the influence in this three countries different?|`height of subsidies` `laws and guidelines` `other forms of support`|Compare|[25], [27]|29.04.2015|
 
 ###Comparison with Other Technologies###
 
@@ -77,6 +78,9 @@ last_updated: 04/15/2015
 [22]: http://www.h2carblog.com/?p=461
 [23]: http://heshydrogen.com/hydrogen-fuel-cost-vs-gasoline/
 [24]: http://www.transportation.anl.gov/pdfs/TA/351.pdf
+[25]: http://www.sciencedirect.com/science/article/pii/S0360544208002144
+[26]: http://www.vdma.org/en_GB/article/-/articleview/3640136
+[27]: http://www.now-gmbh.de/fileadmin/user_upload/RE-DL-InternatDownloads/NOW_NEDO_Hydrogen_Similarities_and_Differences_August_2011.pdf
 
 ----------
 
