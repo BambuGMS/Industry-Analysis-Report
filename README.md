@@ -42,6 +42,7 @@ ___
 **2. Product perspective (Benoit)**
 
 ***1. Introduction***
+
 1. Principle
 
 `Reaction steps`
@@ -51,6 +52,7 @@ ___
 `Components`
 
 ***2. Technologies***
+
 1. PEMFC
 2. AFC
 3. PAFC
@@ -58,6 +60,7 @@ ___
 5. MCFC
 6. DMFC
 7. Summary
+
 * Comparison
 
 `Cost` `Temperature` `Output` `Size` `Fuel`
@@ -67,6 +70,7 @@ ___
 `Quick outlook and introduction to applications`
 
 ***3. Applications***
+
 1. Categorisation choices
 
 `Conventions`
@@ -76,21 +80,22 @@ ___
 4. Stationnary
 
 ***4. Infrastructures*** (Do not insist too much on that part)
-1. Distribution facilities
-	1. Delivery `different delivery schemes` `different components`
-      * Pipeline
 
-			* Tube Trailers
-			* Liquified Hydrogen Tankers
+1. Distribution facilities
+  1. Delivery `different delivery schemes` `different components`
+	* Pipeline
+	* Tube Trailers
+	* Liquified Hydrogen Tankers
 
   2. Hydrogen Storage
 
 `technological issues` `but also demand issues`
 
 2. Hydrogen production (Most important ones)
+
 	1. Introduction `Production modes`
-  2. Electrolysis
-  3. Steam Reforming
+    2. Electrolysis
+    3. Steam Reforming
 	4. Summary `Supply` `Cost` `Environmental impact`
 
 **3. Market/Industry perspective (Pongsathron)**
