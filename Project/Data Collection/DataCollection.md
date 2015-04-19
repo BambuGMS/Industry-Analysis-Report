@@ -30,7 +30,8 @@ last_updated: 04/15/2015
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
-|  |  |  |  |  |
+| What was the state of the industry in the 2014               | `MW sold` `Units shipped` `Leading countries` `Market leaders` `Incentives`| Analysis,Ranking,Comparing | [28], [29]  | 30.04.2015 |
+|What factors cause Japan to become the leader of this industry|`Country Energy Plan` `Related global affairs` `Corporate fundings`         | Analysis,Review|[30], [31]|30.04.2015|
 
 ###Law & Governmental Influence###
 
@@ -81,6 +82,10 @@ last_updated: 04/15/2015
 [25]: http://www.sciencedirect.com/science/article/pii/S0360544208002144
 [26]: http://www.vdma.org/en_GB/article/-/articleview/3640136
 [27]: http://www.now-gmbh.de/fileadmin/user_upload/RE-DL-InternatDownloads/NOW_NEDO_Hydrogen_Similarities_and_Differences_August_2011.pdf
+[28]:http://energy.gov/sites/prod/files/2014/11/f19/fcto_2013_market_report.pdf
+[29]:http://www.fuelcelltoday.com/analysis/industry-review
+[30]:https://www.navigantresearch.com/blog/japan-doubles-down-on-fuel-cell-vehicles
+[31]:http://www.businessgreen.com/bg/analysis/2361689/report-fuel-cells-could-kickstart-energy-market-revolution
 
 ----------
 
