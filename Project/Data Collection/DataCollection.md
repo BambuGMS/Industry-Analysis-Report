@@ -8,7 +8,7 @@ last_updated: 04/15/2015
 
 |**Date**|
 | ------------------ |
-| 15.04.2015 |
+| 20.04.2015 |
 
 
 ----------
@@ -30,15 +30,15 @@ last_updated: 04/15/2015
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
-| What was the state of the industry in the 2014               | `MW sold` `Units shipped` `Leading countries` `Market leaders` `Incentives`| Analysis,Ranking,Comparing | [28], [29]  | 30.04.2015 |
-|What factors cause Japan to become the leader of this industry|`Country Energy Plan` `Related global affairs` `Corporate fundings`         | Analysis,Review|[30], [31]|30.04.2015|
+| What was the state of the industry in the 2014                 | `MW sold` `Units shipped` `Leading countries` `Market leaders` `Incentives`  | Analysis, Ranking, Comparing | [18], [28], [29]  | 30.04.2015 |
+| What factors cause Japan to become the leader of this industry | `Country Energy Plan` `Related global affairs` `Corporate fundings`          | Analysis, Review             | [18], [30], [31]  | 30.04.2015 |
 
 ###Law & Governmental Influence###
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
 | What are governmental influences in:? <li>Japan</li><li>USA</li><li>Germany</li>  | `height of subsidies` `laws and guidelines` `other forms of support`  | Analyse, Show | [25], [26] | 29.04.2015 |
-|In which degree is the influence in this three countries different?|`height of subsidies` `laws and guidelines` `other forms of support`|Compare|[25], [27]|29.04.2015|
+| In which degree is the influence in this three countries different?               | `height of subsidies` `laws and guidelines` `other forms of support`  | Compare       | [25], [27] | 29.04.2015 |
 
 ###Comparison with Other Technologies###
 
