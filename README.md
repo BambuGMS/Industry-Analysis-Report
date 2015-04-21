@@ -104,15 +104,15 @@ ___
 
 ###**3. Market/Industry perspective (Pongsathorn)**
 
- ####3.1 "2014" Market Status by application `tables`
-* 3.1.1 _Stationary_
+####3.1 "2014" Market Status by application `tables`
+* 3.1.1 Stationary
 `graph`,
 `Micro CHP`,
 `Telecommunication Backup`
-* 3.1.2 _Portable_
+* 3.1.2 Portable
 `graph`,
 `battery charger`
-* 3.1.3 _Transport_
+* 3.1.3 Transport
 `graph`,
 `automotive industry`
 
@@ -124,15 +124,15 @@ ___
 * DMFC
 * PEMFC
 
- ####3.3 Regional Focus `mostly texts and pics`
-* 3.3.2 _Asia_
+####3.3 Regional Focus `mostly texts and pics`
+* 3.3.2 Asia
 `Japanese fuel cell central role`
 `Korean power parks`
-* 3.3.2 _Europe_
+* 3.3.2 Europe
 `FCH2 JU`
-* 3.3.3 _North America_
+* 3.3.3 North America
 `California Demo Plan`,`Fuel Cell Refill Stations`
-* 3.3.4 _Rest of World and International Collaborations_
+* 3.3.4 Rest of World and International Collaborations
 `European Asian joint collaboration `,`Australian market`,`Brazillian market`
 
 ----
