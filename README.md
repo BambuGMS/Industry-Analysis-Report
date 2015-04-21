@@ -43,13 +43,8 @@ ___
 
 ***1. Introduction***
 
-1. Principle
-
-`Reaction steps`
-
-2. Set up of a fuel cell
-
-`Components`
+1. Principle `Reaction steps`
+2. Set up of a fuel cell `Components`
 
 ***2. Technologies***
 
@@ -61,20 +56,12 @@ ___
 6. DMFC
 7. Summary
 
-* Comparison
-
-`Cost` `Temperature` `Output` `Size` `Fuel`
-
-* Most important technologies
-
-`Quick outlook and introduction to applications`
+  * Comparison `Cost` `Temperature` `Output` `Size` `Fuel`
+  * Most important technologies `Quick outlook and introduction to applications`
 
 ***3. Applications***
 
-1. Categorisation choices
-
-`Conventions`
-
+1. Categorisation choices `Conventions`
 2. Tranports
 3. Portable
 4. Stationnary
@@ -87,9 +74,7 @@ ___
 	* Tube Trailers
 	* Liquified Hydrogen Tankers
 
-  2. Hydrogen Storage
-
-`technological issues` `but also demand issues`
+  2. Hydrogen Storage `technological issues` `but also demand issues`
 
 2. Hydrogen production (Most important ones)
 
