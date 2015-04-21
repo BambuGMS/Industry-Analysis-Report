@@ -40,4 +40,4 @@ fill in the missing information in data collection slides, esp. time frame
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|**Shouka Arabi**
 | ------------- |----------------|----------------|---------------|
-||signed |signed|
+| signed | signed | signed |

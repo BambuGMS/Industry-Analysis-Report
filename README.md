@@ -35,88 +35,68 @@ ___
 
 **1. Introduction (Konstantin)**
 
-1.1 Intention of the Report  
-1.2 History</br>
-1.3 Fuel Cell as an alternative</br>
-1.4 Short Industry overview
+***1.1. Intention of the Report</br>***
+***1.2. History</br>***
+***1.3. Fuel Cell as an alternative</br>***
+***1.4. Short Industry overview***
 
 **2. Product perspective (Benoit)**
 
-***1. Introduction***
+***2.1. Introduction***
 
-1. Principle
+2.1.1. Principle `Reaction steps`</br>
+2.1.2. Set up of a fuel cell `Components`
 
-`Reaction steps`
+***2.2. Technologies***
 
-2. Set up of a fuel cell
+2.2.1. PEMFC</br>
+2.2.2. AFC</br>
+2.2.3. PAFC</br>
+2.2.4. SOFC</br>
+2.2.5. MCFC</br>
+2.2.6. DMFC</br>
+2.2.7. Summary
+* Comparison `Cost` `Temperature` `Output` `Size` `Fuel`
+* Most important technologies `Quick outlook and introduction to applications`
 
-`Components`
+***2.3. Applications***
 
-***2. Technologies***
+2.3.1. Categorisation choices `Conventions`</br>
+2.3.2. Tranports</br>
+2.3.3. Portable</br>
+2.3.4. Stationnary</br>
 
-1. PEMFC
-2. AFC
-3. PAFC
-4. SOFC
-5. MCFC
-6. DMFC
-7. Summary
+***2.4. Infrastructures*** (Do not insist too much on that part)
 
-* Comparison
+2.4.1. Distribution facilities</br>
+2.4.1.1. Delivery `different delivery schemes` `different components`
+* Pipeline
+* Tube Trailers
+* Liquified Hydrogen Tankers
 
-`Cost` `Temperature` `Output` `Size` `Fuel`
+2.4.1.2. Hydrogen Storage `technological issues` `but also demand issues`
 
-* Most important technologies
+2.4.2. Hydrogen production (Most important ones)</br>
+2.4.2.1. Introduction `Production modes`</br>
+2.4.2.2. Electrolysis</br>
+2.4.2.3. Steam Reforming</br>
+2.4.2.4. Summary `Supply` `Cost` `Environmental impact`
 
-`Quick outlook and introduction to applications`
+**3. Market/Industry perspective (Pongsathorn)**
 
-***3. Applications***
-
-1. Categorisation choices
-
-`Conventions`
-
-2. Tranports
-3. Portable
-4. Stationnary
-
-***4. Infrastructures*** (Do not insist too much on that part)
-
-1. Distribution facilities
-  1. Delivery `different delivery schemes` `different components`
-	* Pipeline
-	* Tube Trailers
-	* Liquified Hydrogen Tankers
-
-  2. Hydrogen Storage
-
-`technological issues` `but also demand issues`
-
-2. Hydrogen production (Most important ones)
-
-	1. Introduction `Production modes`
-    2. Electrolysis
-    3. Steam Reforming
-	4. Summary `Supply` `Cost` `Environmental impact`
-
-___
-
-
-###**3. Market/Industry perspective (Pongsathorn)**
-
-####3.1 "2014" Market Status by application `tables`
-* 3.1.1 Stationary
+***3.1. "2014" Market Status by application*** `tables`
+3.1.1. Stationary
 `graph`,
 `Micro CHP`,
 `Telecommunication Backup`
-* 3.1.2 Portable
+* 3.1.2. Portable
 `graph`,
 `battery charger`
-* 3.1.3 Transport
+* 3.1.3. Transport
 `graph`,
 `automotive industry`
 
-####3.2 "2014" Unit shipments by fuel cell types `Pie Chart`
+***3.2. "2014" Unit shipments by fuel cell types `Pie*** Chart`
 * AFC
 * MCFC
 * SOFC
@@ -124,26 +104,23 @@ ___
 * DMFC
 * PEMFC
 
-####3.3 Regional Focus `mostly texts and pics`
-* 3.3.2 Asia
+***3.3. Regional Focus `mostly texts and pics`***
+* 3.3.2. Asia
 `Japanese fuel cell central role`
 `Korean power parks`
-* 3.3.2 Europe
+* 3.3.2. Europe
 `FCH2 JU`
-* 3.3.3 North America
+* 3.3.3. North America
 `California Demo Plan`,`Fuel Cell Refill Stations`
-* 3.3.4 Rest of World and International Collaborations
+* 3.3.4. Rest of World and International Collaborations
 `European Asian joint collaboration `,`Australian market`,`Brazillian market`
-
-----
-
 
 **4. Law and governmental regulations (Konstantin)**
 
-4.1 Forms of influence</br>
-4.2 Situation in Japan</br>
-4.3 Situation in Germany</br>
-4.4 Situation in the USA
+***4.1. Forms of influence</br>***
+***4.2. Situation in Japan</br>***
+***4.3. Situation in Germany</br>***
+***4.4. Situation in the USA***
 
 **5. Comparison to other technologies (Shouka)**
 
