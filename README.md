@@ -34,10 +34,11 @@ ___
 ###**Outline for the Report**
 
 **1. Introduction (Konstantin)**
-* Intention of the Report  
-* History
-* Fuel Cell as an alternative
-* Industry overview
+
+1.1 Intention of the Report  
+1.2 History</br>
+1.3 Fuel Cell as an alternative</br>
+1.4 Short Industry overview
 
 **2. Product perspective (Benoit)**
 
@@ -102,7 +103,12 @@ ___
 * Competitive environment
 * Regional outlooks  
 
-**4. Law and governmental regulations (Konstantin)**  
+**4. Law and governmental regulations (Konstantin)**
+
+4.1 Forms of influence</br>
+4.2 Situation in Japan</br>
+4.3 Situation in Germany</br>
+4.4 Situation in the USA
 
 **5. Comparison to other technologies (Shouka)**
 
