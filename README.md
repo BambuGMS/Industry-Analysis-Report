@@ -99,9 +99,44 @@ ___
     3. Steam Reforming
 	4. Summary `Supply` `Cost` `Environmental impact`
 
-**3. Market/Industry perspective (Pongsathron)**
-* Competitive environment
-* Regional outlooks  
+___
+
+
+###**3. Market/Industry perspective (Pongsathorn)**
+
+####3.1 "2014" Market Status by application `tables`
+* 3.1.1 Stationary
+`graph`,
+`Micro CHP`,
+`Telecommunication Backup`
+* 3.1.2 Portable
+`graph`,
+`battery charger`
+* 3.1.3 Transport
+`graph`,
+`automotive industry`
+
+####3.2 "2014" Unit shipments by fuel cell types `Pie Chart`
+* AFC
+* MCFC
+* SOFC
+* PAFC
+* DMFC
+* PEMFC
+
+####3.3 Regional Focus `mostly texts and pics`
+* 3.3.2 Asia
+`Japanese fuel cell central role`
+`Korean power parks`
+* 3.3.2 Europe
+`FCH2 JU`
+* 3.3.3 North America
+`California Demo Plan`,`Fuel Cell Refill Stations`
+* 3.3.4 Rest of World and International Collaborations
+`European Asian joint collaboration `,`Australian market`,`Brazillian market`
+
+----
+
 
 **4. Law and governmental regulations (Konstantin)**
 
