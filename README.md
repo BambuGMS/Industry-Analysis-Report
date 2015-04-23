@@ -85,7 +85,7 @@ ___
 **3. Market/Industry perspective (Pongsathorn)**
 
 ***3.1. "2014" Market Status by application*** `tables`
-3.1.1. Stationary
+* 3.1.1. Stationary
 `graph`,
 `Micro CHP`,
 `Telecommunication Backup`
@@ -96,7 +96,7 @@ ___
 `graph`,
 `automotive industry`
 
-***3.2. "2014" Unit shipments by fuel cell types `Pie*** Chart`
+***3.2. "2014" Unit shipments by fuel cell types*** `Pie Chart`
 * AFC
 * MCFC
 * SOFC
