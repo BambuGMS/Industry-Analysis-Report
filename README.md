@@ -97,12 +97,41 @@ ___
 
 **4. Law and governmental regulations (Konstantin)**
 
-***4.1. Forms of influence</br>***
+***4.1. forms of influence</br>***
 ***4.2. Situation in Japan</br>***
 ***4.3. Situation in Germany</br>***
 ***4.4. Situation in the USA***
 
 **5. Comparison to other technologies (Shouka)**
+
+***5.1. Alternative technologies</br>***
+
+5.1.1. Introduction about different technologies</br>
+5.1.2. The trend of different technologies in different nations and regions</br>
+
+***5.2. Advantages and Disadvantages of fuel cell***
+
+5.2.1. Advantages of fuel cell</br>
+5.2.2. Disadvantages of fuel cell</br>
+5.2.3.Chalanges of fuel cell</br>
+
+***5.3. Different elements of settling a technology ***
+
+5.3.1. Alternative elements</br>
+5.3.2. Policy as an important element</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **6. Future perspective (TBD)**
 * Opportunities
