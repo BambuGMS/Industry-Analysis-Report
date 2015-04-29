@@ -44,9 +44,9 @@ last_updated: 04/15/2015
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
-|what are the alternative technologies?  |product concept , different technologies  |collect data from different technologies ,cost ,feasibility ,durability ,imission  |articles and web information  |2015/4/29  |
-|what are the trends of other existing technologies of last years in different nations and regions?|sells and usage volume|collect data ,charts and curves for most high sell technologies in different nations and regions,compare,analysis|websites|2015/4/29
-|compare to fuel cell what are the advantages and disadvantages of high sell technologies ?|product characteristics , policies and regulations of different nations,|
+|what are the alternative technologies?|product concept , different technologies|collect data from different technologies ,cost ,feasibility ,durability ,imission|articles and web information|2015/4/30|
+|what are the trends of other existing technologies of last years in different nations and regions?|sells and usage volume|collect data ,charts and curves for most high sell technologies in different nations and regions,compare,analysis|websites|2015/4/30|
+|compare to fuel cell what are the advantages and disadvantages of high sell technologies ?|product characteristics , policies and regulations of different nations,|gather data about high sell technologies and compare different technologies towards of our target|articles and web information|2015/4/30|
 ###Future Perspectives###
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
