@@ -113,25 +113,12 @@ ___
 
 5.2.1. Advantages of fuel cell</br>
 5.2.2. Disadvantages of fuel cell</br>
-5.2.3.Chalanges of fuel cell</br>
+5.2.3.Challenges of fuel cell</br>
 
 ***5.3. Different elements of settling a technology ***
 
 5.3.1. Alternative elements</br>
 5.3.2. Policy as an important element</br>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **6. Future perspective (TBD)**
 * Opportunities
