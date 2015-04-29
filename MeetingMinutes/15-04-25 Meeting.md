@@ -51,4 +51,4 @@ In response to comments and constructive criticism that we received in the class
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|**Shouka Arabi**
 | ------------- |----------------|----------------|---------------|
-| Signed | Signed  |  |  | |
+| Signed | Signed  |  | signed | |
