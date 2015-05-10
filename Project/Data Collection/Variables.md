@@ -21,7 +21,9 @@ description: variables useful for report, result of class 29.04.2015
 <li>Design/li>
 <li>Distribution Energy Resources (DER)</li>
 <li>Fuel delivery module (fuel processor or a hydrogen storage tank)</li>
+
 ####Tolerance
+
 <li>Implementation</li>
 <li>Price</li>
 <li>Region</li>
@@ -36,6 +38,7 @@ description: variables useful for report, result of class 29.04.2015
 <li>Standards</li>
 
 ####Talent
+
 <li>Governmental incentives</li>
 <li>Gistance to university</li>
 <li>Military interest</li>
