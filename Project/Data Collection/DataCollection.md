@@ -21,7 +21,7 @@ last_updated: 04/15/2015
 | ------------------ |
 | How do fuel cells work?                       | `Principle` `Structure` `Components` `Chemical reactions`                                                               | Explain, Display principle      | [Tsinghua Chemistry Lab], [1], [2], [3], [4], [5]      | 22.04.2015 |
 | How to find Hydrogen?                         | `Natural processes` `Chemical processes` `Cost in energy` `Price`                                                       | Analyse, Compare                | [6], [7], [8], [9], [10], [11], [20], [21], [22], [23] | 22.04.2015 |
-| How to store and transport Hydrogen?          | `Compression methods` `Storage facilities` `Storage reliability`                                                        | Analyse, Draw consequences      | [1], [10], [11], [12], [13], [14], [21], [24]          | 25.04.2015 |
+| How to store and transport Hydrogen?          | `Compression methods` `Storage facilities` `Storage reliability`                                                        | Analyse, Draw consequences      | [1], [10], [11], [12], [13], [14], [21], [24], [32]    | 25.04.2015 |
 | What are the different types of fuel cells?   | `Number` `Names`                                                                                                        | Compare                         | [15], [16], [17]                                       | 15.04.2015 |
 | What are their characteristics                | `Components` `Reaction` `Operating Temperature` `Power output range` `Size` `Weight` `Price` `Manufaturing constraints` | Display, Analyse, Rank          | [1], [5], [15], [16], [17], [18]                       | 15.04.2015 |
 | What applications can then be found for them? | `Categorization of applications` `Relationship with the characteristics`                                                | Sort, Link with characteristics | [18], [19]                                             | 22.04.2015 |
@@ -87,7 +87,7 @@ last_updated: 04/15/2015
 [29]:http://www.fuelcelltoday.com/analysis/industry-review
 [30]:https://www.navigantresearch.com/blog/japan-doubles-down-on-fuel-cell-vehicles
 [31]:http://www.businessgreen.com/bg/analysis/2361689/report-fuel-cells-could-kickstart-energy-market-revolution
-
+[32]:http://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/fct_h2_delivery.pdf
 ----------
 
 **DIGITAL SIGNATURES**
