@@ -21,7 +21,7 @@ last_updated: 18/05/2015
 <li>Compatability with Other Applications</li>
 <li>Energy Generation Efficiency</li>
 <li>Operation and Maintenance</li>
-<li>Design/li>
+<li>Design</li>
 <li>Distribution Energy Resources (DER)</li>
 <li>Fuel delivery module (fuel processor or a hydrogen storage tank)</li>
 
