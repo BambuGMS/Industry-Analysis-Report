@@ -46,4 +46,4 @@ Each member should finish writing  his/her primary report about his/her section 
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|**Shouka Arabi**
 | ------------- |----------------|----------------|---------------|
-| signed |   | signed | signed | |
+| signed | signed  | signed | signed | |

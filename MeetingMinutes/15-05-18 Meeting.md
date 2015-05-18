@@ -68,4 +68,4 @@ Design the slides for wednesday (with progress, logic model, and variables)
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|**Shouka Arabi**
 | ------------- |----------------|----------------|---------------|
-|  |  |  |  |
+|  | signed |  |  |
