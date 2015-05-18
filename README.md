@@ -50,10 +50,10 @@ ___
 ***2.2. Technologies***
 
 2.2.1. PEMFC</br>
-2.2.2. AFC</br>
-2.2.3. PAFC</br>
-2.2.4. SOFC</br>
-2.2.5. MCFC</br>
+2.2.2. DMFC</br>
+2.2.3. AFC</br>
+2.2.4. PAFC</br>
+2.2.5. SOFC</br>
 2.2.6. MCFC</br>
 2.2.7.Conclucsion
 * Comparison `Electrolyte` `Electrodes` `Fuel` `Temperature` `Output` `Efficiency` `Power density`
