@@ -19,12 +19,12 @@ last_updated: 18/05/2015
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
-| How do fuel cells work?                       | `Principle` `Structure` `Components` `Chemical reactions`                                                               | Explain, Display principle      | [Tsinghua Chemistry Lab], [1], [2], [3], [4], [5]            | 22.04.2015 |
-| How to find Hydrogen?                         | `Natural processes` `Chemical processes` `Cost in energy` `Price`                                                       | Analyse, Compare                | [6], [7], [8], [9], [10], [11], [20], [21], [22], [23], [33] | 22.04.2015 |
-| How to store and transport Hydrogen?          | `Compression methods` `Storage facilities` `Storage reliability`                                                        | Analyse, Draw consequences      | [1], [10], [11], [12], [13], [14], [21], [24], [32]          | 25.04.2015 |
-| What are the different types of fuel cells?   | `Number` `Names`                                                                                                        | Compare                         | [15], [16], [17]                                             | 15.04.2015 |
-| What are their characteristics                | `Components` `Reaction` `Operating Temperature` `Power output range` `Size` `Weight` `Price` `Manufaturing constraints` | Display, Analyse, Rank          | [1], [5], [15], [16], [17], [18]                       | 15.04.2015 |
-| What applications can then be found for them? | `Categorization of applications` `Relationship with the characteristics`                                                | Sort, Link with characteristics | [18], [19]                                             | 22.04.2015 |
+| How do fuel cells work?                       | `Principle` `Structure` `Components` `Chemical reactions`                                         | Explain, Display principle      | [1], [2], [3]                                      | 22.04.2015 |
+| Where find Hydrogen?                          | `Natural processes` `Chemical processes` `Cost in energy` `Price`                                 | Analyse, Compare                | [8], [9], [10], [11], [20], [21], [22], [23], [33] | 15.05.2015 |
+| How to store and transport Hydrogen?          | `Compression methods` `Storage facilities` `Storage reliability`                                  | Analyse, Draw consequences      | [1], [10], [11], [14], [21], [24], [32]            | 15.05.2015 |
+| What are the different types of fuel cells?   | `Number` `Names`                                                                                  | Compare                         | [15], [16], [17]                                   | 15.04.2015 |
+| What are their characteristics                | `Components` `Reaction` `Operating Temperature` `Power output range` `Efficiency` `Power density` | Display, Analyse, Rank          | [1], [5], [15], [16], [17], [18]                   | 15.04.2015 |
+| What applications can then be found for them? | `Categorization of applications` `Relationship with the characteristics`                          | Sort, Link with characteristics | [18], [19]                                         | 22.04.2015 |
 
 ###Market Perspectives###
 
@@ -96,4 +96,4 @@ last_updated: 18/05/2015
 
 | **Benoit Serot** | **Pongsathorn Tiranun** | **Konstantin Neumann** | **Shouka Arabi** |
 | ------------------ |
-|  |  |  |  |
+| Signed |  |  |  |

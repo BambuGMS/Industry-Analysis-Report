@@ -1,17 +1,20 @@
 ---
 layout: document
-title: "Variable"
+title: "Variables"
 tags: [variables, tables, Benoit Serot, Pongsathorn Tiranun, Konstantin Neumann, Shouka Arabi, BAMBU, fuel cell]
 description: variables useful for report, result of class 29.04.2015
+last_updated: 18/05/2015
 ---
 
 ##Variables according to the 3T Model##
 
 ####Technology
 
-<li>Price</li>
 <li>Fuel Types</li>
 <li>Power Output</li>
+<li>Chemical components</li>
+<li>Efficiency</li>
+<li>Power density</li>
 <li>Application</li>
 <li>Production capacity</li>
 <li>System Stability</li>

@@ -54,17 +54,18 @@ ___
 2.2.3. PAFC</br>
 2.2.4. SOFC</br>
 2.2.5. MCFC</br>
-2.2.6. DMFC</br>
-2.2.7. Summary
-* Comparison `Cost` `Temperature` `Output` `Size` `Fuel`
+2.2.6. MCFC</br>
+2.2.7.Conclucsion
+* Comparison `Electrolyte` `Electrodes` `Fuel` `Temperature` `Output` `Efficiency` `Power density`
 * Most important technologies `Quick outlook and introduction to applications`
 
 ***2.3. Applications***
 
-2.3.1. Categorisation choices `Conventions`</br>
-2.3.2. Tranports</br>
+2.3.1. Tranports</br>
+2.3.2. Stationnary</br>
 2.3.3. Portable</br>
-2.3.4. Stationnary</br>
+2.4.3. Conclusion</br>
+* Store the data presented previously `Power range` `FC` `Applications`
 
 ***2.4. Infrastructures*** (Do not insist too much on that part)
 
@@ -77,10 +78,8 @@ ___
 2.4.1.2. Hydrogen Storage `technological issues` `but also demand issues`
 
 2.4.2. Hydrogen production (Most important ones)</br>
-2.4.2.1. Introduction `Production modes`</br>
+2.4.2.1. Gas reforming</br>
 2.4.2.2. Electrolysis</br>
-2.4.2.3. Steam Reforming</br>
-2.4.2.4. Summary `Supply` `Cost` `Environmental impact`
 
 **3. Market/Industry perspective (Pongsathorn)**
 
