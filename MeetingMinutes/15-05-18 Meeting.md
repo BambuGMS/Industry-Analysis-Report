@@ -32,6 +32,7 @@ Meeting Minutes
 
 As a new background picture is set (more consistent with the topic), the color set has to be redefined. We chose a set of blues and greys that would correspond better.
 
+
 We discussed about the progress and our studies about each section of our fuel cell IAR.we also talked about the block-chain and some risks about the fuel cell in response to what we recived in the class last week.
 
 **TIME ARENGEMENT**
@@ -42,9 +43,23 @@ We desided to start to write and every one try to finish the primary report of h
 
  **COMMITMENTS**
 
-***Whole Group***:
+***Dusty***
 
-Each member should finish writing  his/her primary report about his/her section before next sunday (17.5.15).
+Design the slides for wednesday (with progress, logic model, and variables)
+
+
+***Konstatin***
+
+	* Redesign the brochure
+	* Reset the colors (logo, layout)
+	* Clean the repositery of parasite files
+
+***Benoit***
+
+	* Write the MM
+	* Update tables and graphs so the they are coherent with the progress of the project
+
+
 
 ----------
 
