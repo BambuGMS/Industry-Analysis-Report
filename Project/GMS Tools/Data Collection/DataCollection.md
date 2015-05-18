@@ -19,18 +19,18 @@ last_updated: 18/05/2015
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
-| How do fuel cells work?                       | `Principle` `Structure` `Components` `Chemical reactions`                                                          | Explain, Display principle      | [1], [2], [3]                                      | 22.04.2015 |
-| Where find Hydrogen?                          | `Natural processes` `Chemical processes` `Cost in energy` `Price`                                                  | Analyse, Compare                | [8], [9], [10], [11], [20], [21], [22], [23], [33] | 15.05.2015 |
-| How to store and transport Hydrogen?          | `Compression methods` `Storage facilities` `Storage reliability`                                                   | Analyse, Draw consequences      | [1], [10], [11], [14], [21], [24], [32]            | 15.05.2015 |
-| What are the different types of fuel cells?   | `Number` `Names` `Components` `Reaction` `Operating Temperature` `Power output range` `Efficiency` `Power density` | Compare, Display, Analyse, Rank | [1], [5], [15], [16], [17], [18]                   | 15.04.2015 |
-| What applications can then be found for them? | `Categorization of applications` `Relationship with the characteristics`                                           | Sort, Link with characteristics | [18], [19]                                         | 22.04.2015 |
+| How do fuel cells work?                       | `Principle` `Structure` `Components` `Chemical reactions`                                                          | Explain, Display principle      | [1], [2], [3]                    | 22.04.2015 |
+| Where find Hydrogen?                          | `Natural processes` `Chemical processes` `Cost in energy` `Price`                                                  | Analyse, Compare                | [10], [20], [21], [33]           | 15.05.2015 |
+| How to store and transport Hydrogen?          | `Compression methods` `Storage facilities` `Storage reliability`                                                   | Analyse, Draw consequences      | [1], [10], [14], [21], [32]      | 15.05.2015 |
+| What are the different types of fuel cells?   | `Number` `Names` `Components` `Reaction` `Operating Temperature` `Power output range` `Efficiency` `Power density` | Compare, Display, Analyse, Rank | [1], [5], [15], [16], [17], [18] | 15.04.2015 |
+| What applications can then be found for them? | `Categorization of applications` `Relationship with the characteristics`                                           | Sort, Link with characteristics | [18], [19]                       | 22.04.2015 |
 
 ###Market Perspectives###
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
 | What was the state of the industry in the 2014?                 | `MW sold` `Units shipped` `Leading countries` `Market leaders` `Incentives`  | Analyse, Rank, Compare | [18], [28], [29]  | 30.04.2015 |
-| What factors cause Japan to become the leader of this industry? | `Country Energy Plan` `Related global affairs` `Corporate fundings`          | Analyse, Review             | [18], [30], [31]  | 30.04.2015 |
+| What factors cause Japan to become the leader of this industry? | `Country Energy Plan` `Related global affairs` `Corporate fundings`          | Analyse, Review        | [18], [30], [31]  | 30.04.2015 |
 
 ###Law & Governmental Influence###
 
@@ -51,9 +51,9 @@ last_updated: 18/05/2015
 
 | **Question** | **Indicators** | **Methods** | **Sources/ Sample** | **Timing** |
 | ------------------ |
-| What are the innovation fields? | `Company names` `Projects` `Research perspectives` | Review, Analyse |  | 22.05.2015 |
-| What are the sales forecast?    | `MW to be sold` `Units to be shipped` `Projects`   | Review          |  | 22.05.2015 |
-| What is the next Milestone?     | `Expected industry event/ step` `Date`             | Review, Analyse |  | 22.05.2015 |
+| What are the innovation fields? | `Company names` `Projects` `Research perspectives` | Review, Analyse | [34] | 22.05.2015 |
+| What are the sales forecast?    | `MW to be sold` `Units to be shipped` `Projects`   | Review          |      | 22.05.2015 |
+| What is the next Milestone?     | `Expected industry event/ step` `Date`             | Review, Analyse | [34] | 22.05.2015 |
 
 [Tsinghua Chemistry Lab]: ()
 [1]: http://en.wikipedia.org/wiki/Fuel_cell
@@ -89,6 +89,7 @@ last_updated: 18/05/2015
 [31]:http://www.businessgreen.com/bg/analysis/2361689/report-fuel-cells-could-kickstart-energy-market-revolution
 [32]:http://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/fct_h2_delivery.pdf
 [33]:http://energy.gov/eere/fuelcells/hydrogen-production-natural-gas-reforming
+[34]:http://www.sciencedirect.com/science/article/pii/S0360319908015061
 
 ----------
 
