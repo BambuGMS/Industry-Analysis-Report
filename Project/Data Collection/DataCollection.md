@@ -3,7 +3,7 @@ layout: document
 title: "Data Collection"
 tags: [data collection, tables, Benoit Serot, Pongsathorn Tiranun, Konstantin Neumann, Shouka Arabi, BAMBU, fuel cell]
 description: BAMBU Data Collection Scheme according to University of Wisconsin Extension lmguideslides
-last_updated: 04/15/2015
+last_updated: 18/05/2015
 ---
 
 |**Date**|
