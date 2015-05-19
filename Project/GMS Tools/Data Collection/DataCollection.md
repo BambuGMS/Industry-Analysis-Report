@@ -97,4 +97,4 @@ last_updated: 18/05/2015
 
 | **Benoit Serot** | **Pongsathorn Tiranun** | **Konstantin Neumann** | **Shouka Arabi** |
 | ------------------ |
-| Signed |  |  |  |
+| Signed |Signed  |  |  |
