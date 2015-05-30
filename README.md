@@ -16,8 +16,6 @@ ___
 
     Konstantin Neumann
 
-    Shouka Arabi
-
 
 ___
 
