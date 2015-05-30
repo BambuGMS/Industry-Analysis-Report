@@ -13,12 +13,12 @@ last_updated: 05/18/2015
 
 ----------
 
-Logic Model V1
+Logic Model
 ------
 
 |**Problem**|
 | ------------- |
-| As fossil fuels reserves of the planet are not inexhaustible and the energy demand is rising year by year, it is essential to adopt alternative sources of energy. |
+| Fuel cells are an alternative to fossil fuels, yet there is a lack of knowledge about fuel cells and the state of the industry. |
 
 
 |**Goal**|
@@ -26,7 +26,7 @@ Logic Model V1
 | Provide an open Industry Analysis Report (IAR) in order for global knowledge and development opportunities to become available to anyone. |
 
 
-|**Resources**|**Activities**|**Outcomes**|**Outputs**|
+|**Resources**|**Activities**|**Outputs**|**Outcomes**|
 | ------------- | ------------- | ------------- | ------------- |
 | 1 Supervisor                   | Review Fuel Cell information                | IAR                                 | Know about the fuel cell industry                |
 | 20 Contributors                | Extract IAR structure from existing reports | Interaction with other contributors | Know the state and needs of the market           |

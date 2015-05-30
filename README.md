@@ -1,4 +1,4 @@
-# INDUSTRY-ANALYSIS-REPORT
+ # INDUSTRY-ANALYSIS-REPORT
 
 ___
 ___
@@ -15,8 +15,6 @@ ___
     Pongsathorn Tiranun
 
     Konstantin Neumann
-
-    Shouka Arabi
 
 
 ___
@@ -120,8 +118,12 @@ ___
 5.3.2. Policy as an important element</br>
 
 **6. Future perspective (TBD)**
-* Opportunities
-* Limitations/risks
-* Forecast
+
+* Infrastructure (Distribution --> Gas powered countries/ Standards/ Exclusive grids)
+* Blockchains
+* Pricing (FC/ Oil/ Batteries)
+* Technologies (FC/ Hydrogen production)
+* Operation & maintenance
+* Governmental policies
 
 ___
