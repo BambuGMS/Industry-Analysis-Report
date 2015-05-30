@@ -60,4 +60,4 @@ Write about the potential for FC technologies (no platinum cells) and hydrogen p
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|
 |----------------|----------------|---------------|
-| signed |  |  |
+| signed |signed  |  |
