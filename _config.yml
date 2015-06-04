@@ -4,7 +4,7 @@
 permalink:           pretty
 relative_permalinks: true
 highlighter: pygments
-github: repo: https://github.com/BambuGMS/Industry-Analysis-Report
+
 
 # Setup
 title:               FC
@@ -13,6 +13,8 @@ description:         'A reserved <a href="http://jekyllrb.com" target="_blank">J
 url:                 https://BambuGMS.github.io/Industry-Analysis-Report
 baseurl:             /Industry-Analysis-Report
 paginate:            5
+github: 
+  repo: https://github.com/BambuGMS/Industry-Analysis-Report
 
 # About/contact
 author:
