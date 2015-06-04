@@ -4,7 +4,7 @@
 permalink:           pretty
 relative_permalinks: true
 highlighter: pygments
-github: https://github.com/BambuGMS/Industry-Analysis-Report
+github: repo: https://github.com/BambuGMS/Industry-Analysis-Report
 
 # Setup
 title:               FC
