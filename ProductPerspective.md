@@ -1,6 +1,8 @@
 ---
-Title: Product Perspective
-Layout: page
+title: Introduction
+layout: page
 ---
+
+Introduction
 
 Product Perspective
