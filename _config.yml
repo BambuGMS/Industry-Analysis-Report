@@ -12,7 +12,7 @@ tagline:             '2015'
 description:         'Start browsing through the different parts of the report'
 url:                 https://BambuGMS.github.io/Industry-Analysis-Report
 baseurl:             /Industry-Analysis-Report
-paginate:            5
+paginate:            10
 github: 
   repo: https://github.com/BambuGMS/Industry-Analysis-Report
 
