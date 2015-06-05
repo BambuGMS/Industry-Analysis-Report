@@ -12,7 +12,7 @@ title:               Fuel Cell Industry Analysis Report
 tagline:             '2015'
 description:         'Start browsing through the different parts of the report'
 url:                 https://BambuGMS.github.io/Industry-Analysis-Report
-baseurl:             /Industry-Analysis-Report
+baseurl:             ""
 paginate:            10
 
 # About/contact
