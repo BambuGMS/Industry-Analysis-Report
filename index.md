@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 ##Welcome##
-![Logo](https://github.com/BambuGMS/Industry-Analysis-Report/blob/gh-pages/images/Logo.jpg =473x984)
+![Logo](/images/Logo.jpg?raw=true =473x984)
 This is the website for the Fuel Cell Industry Analysis Report 2015 written by the group bambu.
 
 
