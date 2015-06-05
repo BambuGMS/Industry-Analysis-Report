@@ -9,5 +9,5 @@ This is the website for the Fuel Cell Industry Analysis Report 2015 written by t
 
 
 
-  <img src="images/Logo.jpg" alt="logo" height="473" width="984">
+  <img src="images/Logo.jpg" alt="logo">
 
