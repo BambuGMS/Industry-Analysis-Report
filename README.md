@@ -1,134 +1,129 @@
-# Lanyon
+ # INDUSTRY-ANALYSIS-REPORT
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+___
+___
 
-![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
-![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
+###Industry Analysis Report for GMS 2015
 
+![Bambu Logo](https://github.com/BambuGMS/Industry-Analysis-Report/blob/master/Project/Resources/Logo%20slimm.png)
 
-## Contents
+___
+**Group Members:**
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+    Benoit Serot
 
+    Pongsathorn Tiranun
 
-## Usage
-
-Lanyon is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+    Konstantin Neumann
 
 
-## Options
+___
 
-Lanyon includes some customizable options, typically applied via classes on the `<body>` element.
+###**Introduction about the Team**
 
+- _Why the name Bambu?_  
+	Bambu shares the same pronunciation as the plant **_'bamboo'_** which is strong, fast growing,  has multipurpose utility , and it is also a favorite choice for Chinese fine arts and paintings.
 
-### Sidebar menu
+- _Why Bambu and not Bamboo?_  
+	The last alphabet **_'U'_** makes our group name stands out and therefore represents us!
 
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
+___
 
-```
----
-layout: page
-title: About
----
-```
+###**Outline for the Report**
 
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
+**1. Introduction (Konstantin)**
 
+***1.1. Intention of the Report</br>***
+***1.2. History</br>***
+***1.3. Fuel Cell as an alternative</br>***
+***1.4. Short Industry overview***
 
-### Themes
+**2. Product perspective (Benoit)**
 
-Lanyon ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
+***2.1. Introduction***
 
-![Lanyon with red theme](https://f.cloud.github.com/assets/98681/1825270/be065110-71b0-11e3-9ed8-9b8de753a4af.png)
-![Lanyon with red theme and open sidebar](https://f.cloud.github.com/assets/98681/1825269/be05ec20-71b0-11e3-91ea-a9138ef07186.png)
+2.1.1. Principle `Reaction steps`</br>
+2.1.2. Set up of a fuel cell `Components`
 
-There are eight themes available at this time.
+***2.2. Technologies***
 
-![Available theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
+2.2.1. PEMFC</br>
+2.2.2. DMFC</br>
+2.2.3. AFC</br>
+2.2.4. PAFC</br>
+2.2.5. SOFC</br>
+2.2.6. MCFC</br>
+2.2.7.Conclucsion
+* Comparison `Electrolyte` `Electrodes` `Fuel` `Temperature` `Output` `Efficiency` `Power density`
+* Most important technologies `Quick outlook and introduction to applications`
 
-To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
+***2.3. Applications***
 
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
+2.3.1. Tranports</br>
+2.3.2. Stationnary</br>
+2.3.3. Portable</br>
+2.4.3. Conclusion</br>
+* Store the data presented previously `Power range` `FC` `Applications`
 
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+***2.4. Infrastructures*** (Do not insist too much on that part)
 
+2.4.1. Distribution facilities</br>
+2.4.1.1. Delivery `different delivery schemes` `different components`
+* Pipeline
+* Tube Trailers
+* Liquified Hydrogen Tankers
 
-### Reverse layout
+2.4.1.2. Hydrogen Storage `technological issues` `but also demand issues`
 
-![Lanyon with reverse layout](https://f.cloud.github.com/assets/98681/1825265/be03f2e4-71b0-11e3-89f1-360705524495.png)
-![Lanyon with reverse layout and open sidebar](https://f.cloud.github.com/assets/98681/1825268/be056174-71b0-11e3-88c8-5055bca4307f.png)
+2.4.2. Hydrogen production (Most important ones)</br>
+2.4.2.1. Gas reforming</br>
+2.4.2.2. Electrolysis</br>
 
-Reverse the page orientation with a single class.
+**3. Market/Industry perspective (Pongsathorn)**
 
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
+***3.1. Market Prespective Introduction***
+***3.2. Investment Cost Reduction***
+***3.3. Research and Development Fundings***  
+***3.4. Top Investors***  
+***3.5. Quantity of FC shipped***  
+***3.6. Hydrogen REfuelling Stations***  
+***3.7. Major Companies***  
 
+3.7.1. Public Companies</br>
+3.7.2. Private Companies</br>
 
-### Sidebar overlay instead of push
+**4. Law and governmental regulations (Konstantin)**
 
-Make the sidebar overlap the viewport content with a single class:
+***4.1. forms of influence</br>***
+***4.2. Situation in Japan</br>***
+***4.3. Situation in Germany</br>***
+***4.4. Situation in the USA***
 
-```html
-<body class="sidebar-overlay">
-  ...
-</body>
-```
+**5. Comparison to other technologies (Shouka)**
 
-This will keep the content stationary and slide in the sidebar over the side content. It also adds a `box-shadow` based outline to the toggle for contrast against backgrounds, as well as a `box-shadow` on the sidebar for depth.
+***5.1. Alternative technologies</br>***
 
-It's also available for a reversed layout when you add both classes:
+5.1.1. Introduction about different technologies</br>
+5.1.2. The trend of different technologies in different nations and regions</br>
 
-```html
-<body class="layout-reverse sidebar-overlay">
-  ...
-</body>
-```
+***5.2. Advantages and Disadvantages of fuel cell***
 
-### Sidebar open on page load
+5.2.1. Advantages of fuel cell</br>
+5.2.2. Disadvantages of fuel cell</br>
+5.2.3.Challenges of fuel cell</br>
 
-Show an open sidebar on page load by modifying the `<input>` to add the `checked` boolean attribute:
+***5.3. Different elements of settling a technology ***
 
-```html
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
-```
+5.3.1. Alternative elements</br>
+5.3.2. Policy as an important element</br>
 
-Using Liquid you can also conditionally show the sidebar open on a per-page basis. For example, here's how you could have it open on the homepage only:
+**6. Future perspective (TBD)**
 
-```html
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" {% if page.title =="Home" %}checked{% endif %}>
-```
+* Infrastructure (Distribution --> Gas powered countries/ Standards/ Exclusive grids)
+* Blockchains
+* Pricing (FC/ Oil/ Batteries)
+* Technologies (FC/ Hydrogen production)
+* Operation & maintenance
+* Governmental policies
 
-## Development
-
-Lanyon has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+___
