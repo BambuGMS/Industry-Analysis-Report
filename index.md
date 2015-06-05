@@ -2,6 +2,11 @@
 layout: default
 title: Home
 ---
+##Welcome##
+![Logo](/images/Logo.jpg =984x473)
+This is the website for the Fuel Cell Industry Analysis Report 2015 written by the group bambu.
+
+
 
 <div class="page">
   <h1 class="page-title">Welcome</h1>
