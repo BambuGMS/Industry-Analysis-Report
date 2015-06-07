@@ -5,6 +5,7 @@ chapter: http://www.fz-juelich.de/SharedDocs/Bilder/IEK/IEK-3/Leistungen/Brennst
 chapter: http://data.motor-talk.de/data/galleries/0/6/7618/58869859/tmde-44206-8139849908331416544.jpg
 chapter: http://c4dnetwork.com/board/attachment.php?s=b244728d96df8cad72364c8accd57115&attachmentid=41629&d=1395932039
 chapter: http://www.car-engineer.com/wp-content/uploads/2013/11/PEMFC-CEA-illustration.jpg?d5a4a8
+chapter: http://www.workshop-europeanccsday.ademe.fr/Data/kmclientv7/wysiwyg/F_752249ff0a6e1ea3f999d5ad2041a98e53429e7d60bec.jpg
 
 page 13 hydrogen bus: http://commons.wikimedia.org/wiki/File:First_London_fuel_cell_bus_WSH62995_%28LK60_HPN%29_VDL_SB200_Wrightbus_Pulsar,_Catherine_Street,_route_RV1,_20_May_2011.jpg
 page 14: http://c0688662.cdn.cloudfiles.rackspacecloud.com/download_image_Bloom_018.jpg
