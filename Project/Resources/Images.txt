@@ -1,20 +1,22 @@
 Frontpage: http://isis-innovation.com/opportunities/hydroxsil/
 chapter: https://nckuenergy.wordpress.com/
 chapter: http://www.businessgreen.com/IMG/164/260164/bloom-energy-boxes.jpg
-chapter: http://www.fz-juelich.de/SharedDocs/Bilder/IEK/IEK-3/Leistungen/Brennstoffzellen/HT-PEFC-Stack.jpg;jsessionid=1C89949758B14C797CFF7FC869C12421?__blob=poster
-chapter: http://data.motor-talk.de/data/galleries/0/6/7618/58869859/tmde-44206-8139849908331416544.jpg
 chapter: http://c4dnetwork.com/board/attachment.php?s=b244728d96df8cad72364c8accd57115&attachmentid=41629&d=1395932039
 chapter: http://www.car-engineer.com/wp-content/uploads/2013/11/PEMFC-CEA-illustration.jpg?d5a4a8
+chapter: http://www.workshop-europeanccsday.ademe.fr/Data/kmclientv7/wysiwyg/F_752249ff0a6e1ea3f999d5ad2041a98e53429e7d60bec.jpg
+chapter: http://www.cea.fr/var/site/storage/images/jeunes/mediatheque/nouvelle_phototheque/energies_renouvelables/les_piles_a_combustibles/monocellule_de_pile_a_combustible/1323897-1-fre-FR/monocellule_de_pile_a_combustible.jpg
 
 page 13 hydrogen bus: http://commons.wikimedia.org/wiki/File:First_London_fuel_cell_bus_WSH62995_%28LK60_HPN%29_VDL_SB200_Wrightbus_Pulsar,_Catherine_Street,_route_RV1,_20_May_2011.jpg
 page 14: http://c0688662.cdn.cloudfiles.rackspacecloud.com/download_image_Bloom_018.jpg
 page 15: http://www.digitaltrends.com/cool-tech/brunton-hydrogen-reactor-portable-power-pack/
 page 16: http://www.fleetbydieteren.be/lhydrogene-carburant-demain/
-page 17:	https://thenounproject.com/accounts/login/?next=/term/pipeline/53646/
+page 17: https://thenounproject.com/accounts/login/?next=/term/pipeline/53646/
 			http://www.snap2objects.com/2009/02/free-means-of-transportation-vector-silhouettes/
 			http://www.cimc.com/en/enterprise/gasequipment/index.shtml?subComId=1542
 page 18: http://www.themanufacturer.com/wp-content/uploads/2012/02/Air-Products-new-Rotterdam-hydrogen-production-facility.jpg
+page 27: http://upload.wikimedia.org/wikipedia/commons/8/88/Bloom_Energy_logo.svg
 page 27: http://www.therecycletimes.com/wp-content/uploads/2011/07/bloom-energy-hands-literally-rm-eng-500x332.jpg
+page 28: http://upload.wikimedia.org/wikipedia/commons/5/59/Horizon_Fuel_Cell_Technologies_logo.jpg
 page 28: http://static.wixstatic.com/media/047f54_27db44260b9e1d7c33d0a8aaab2586c8.png_srz_559_432_75_22_0.50_1.20_0.00_png_srz
 page 29: http://www.buildupskills.eu/sites/default/files/iee_logo_withflag_strap_300_0.jpg
 page 29: http://www.themanufacturer.com/wp-content/uploads/2012/09/Fuel-cell-taxi-Intelligent-Energy1.jpg
