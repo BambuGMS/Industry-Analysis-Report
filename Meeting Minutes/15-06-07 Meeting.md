@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Meeting Summary"
-tags: [summary, meeting, Benoit Serot, Pongsathorn Tiranun, Konstantin Neumann, logic model, brochure, layar, QR Code, recap]
+tags: [summary, meeting, Benoit Serot, Pongsathorn Tiranun, Konstantin Neumann, logic model, brochure, QR Code, recap]
 description: Meeting notes from the Bambu Team
-last_updated: 18/05/2015
 ---
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
-|30.05.2015| 12:00 | New Library
+|07.06.2015| 13:00 | New Library
 
 
 ----------
@@ -19,40 +18,47 @@ Meeting Minutes
 
  **TOP FOR TODAY**
 
-1. Redesign the Logic Model</br>
-	* Rephrase the problem
-	* Adapt the content to the one of the Report (reach a more conceptual level)
+1. Review the report</br>
+	* Correct mistakes
+	* Agree on the format of: QR codes; Tables;
+	* Update the fields
+	* Update the part pictures
+	* Update the tables of content
 
-2. Recap on the progress of the writing
+2. Write the conclusion
 
-3. Set the content of the Future perspective part
-
+3. Figure out the format of the Website</br>
+	* Distribution of tasks
+	* Content
 
  **PROGRESS DISCUSSTION**
 
-1. Redesign the Logic Model</br>
-	Only the conceptual statements were kept (GOAL/ Rationales/ OUTCOMES). The contribution with the whole class however was kept, which will require additional information in the introduction (context of the GMS class and project).
+1. Review the report</br>
 
-2. Recap on the progress of the writing</br>
-	Writing is almost done for most parts. Future perspective is to be started this week.
+2. Write the conclusion</br>
+	NO
 
-3. Set the content of the Future perspective part</br>
-	The future perspective part is to be a succession of outlooks, without a too complex structure.
-
+3. Figure out the format of the Website</br>
+	Introduction to the report parts
 
  **COMMITMENTS**
 
+Conclusion
+Website
+
 ***Dusty***
 
-Write about the infrastructure potential developments (distribution/ standards/ off grid networks) and blockchains in the internet of things
+Refer to the comments to rephrase sentences.
+Add the QR Code URLs.
 
 ***Konstantin***
 
-Write about the princing of FC and some competitive technologies, such as batteries and conventional power systems
+Pricing
 
 ***Benoit***
 
-Write about the potential for FC technologies (no platinum cells) and hydrogen production developing modes. Find information about maintenance, durability.
+Add the QR Code URLs
+
 ----------
 
 
