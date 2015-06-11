@@ -66,4 +66,4 @@ Add the QR Code URLs
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|
 |----------------|----------------|---------------|
-| signed |signed  |  |
+| signed |signed  | signed |
