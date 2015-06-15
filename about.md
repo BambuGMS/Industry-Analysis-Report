@@ -7,7 +7,7 @@ This Industry Analysis Report was written as a projcet in the class "Global Manu
 
 Teammembers are:
 
-<img class="resize" src="../images/Benoit.JPG" alt="Benoit" align="middle"> Benoit <a href="https://github.com/benoitserot" class="user-mention">@benoitserot</a>
+<img class="resize" src="../images/Benoit.JPG" alt="Benoit"> Benoit <a href="https://github.com/benoitserot" class="user-mention">@benoitserot</a>
 
 <img class="resize" src="../images/Pongsathorn.JPG" alt="Pongsathron"> Pongsathorn <a href="https://github.com/LiuHuaMing" class="user-mention">@LiuHuaMing</a>
 
