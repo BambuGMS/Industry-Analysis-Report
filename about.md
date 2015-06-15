@@ -11,4 +11,4 @@ Teammembers are:
 
 <img class="resize" src="../images/Pongsathorn.JPG" alt="Pongsathron"> Pongsathorn <a href="https://github.com/LiuHuaMing" class="user-mention">@LiuHuaMing</a>
 
-<img class="resize" src="../images/Konstantin.JPG" alt="Konstantin" align="middle"> Konstantin <a href="https://github.com/K-Neumann" class="user-mention">@K-Neumann</a>
+<img class="resize" src="../images/Konstantin.JPG" alt="Konstantin"> Konstantin <a href="https://github.com/K-Neumann" class="user-mention">@K-Neumann</a>
