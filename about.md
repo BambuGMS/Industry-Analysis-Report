@@ -7,8 +7,8 @@ This Industry Analysis Report was written as a projcet in the class "Global Manu
 
 Teammembers are:
 
-<img src="../images/Benoit.JPG" alt="Benoit" align="middle" width="750" height="1000"> Benoit <a href="https://github.com/benoitserot" class="user-mention">@benoitserot</a>
+<img class="resize" src="../images/Benoit.JPG" alt="Benoit" align="middle"> Benoit <a href="https://github.com/benoitserot" class="user-mention">@benoitserot</a>
 
 <img class="resize" src="../images/Pongsathorn.JPG" alt="Pongsathron"> Pongsathorn <a href="https://github.com/LiuHuaMing" class="user-mention">@LiuHuaMing</a>
 
-<img src="../images/Konstantin.JPG" alt="Konstantin"> Konstantin <a href="https://github.com/K-Neumann" class="user-mention">@K-Neumann</a>
+<img class="resize" src="../images/Konstantin.JPG" alt="Konstantin" align="middle"> Konstantin <a href="https://github.com/K-Neumann" class="user-mention">@K-Neumann</a>
