@@ -235,7 +235,6 @@ img {
 }
 
 img.resize{
-  display: inline
   max-width:30%;
   max-height:30%;
 }
