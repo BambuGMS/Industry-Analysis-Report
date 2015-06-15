@@ -29,24 +29,37 @@ Meeting Minutes
 
 4. Make the presentation
 
+
  **PROGRESS DISCUSSTION**
 
 1. Review the report</br>
 	Footers' leaves are now placed "absolutely" on page measures:
 
-	0.5		17.66
-	26.8		26.8
-	1.5		1.5
+|    **Left**   |    **Right**  |
+| ------------- | ------------- |
+| 0.5           | 17.66         |
+| 26.8          | 26.8          |
+| 1.5           | 1.5           |
+
 
 2. Review the Conclusion and integrate it to the report</br>
-	DONE
+	**DONE**
 
 3. Write the 30 seconds Statement</br>
 	NO
-	Start with saying 
+	Start with saying
 
-"Dihydrogen is the most abundant gas in the solar system in terms of molar numbers. It is present on earth only in small quantities and hard to preserve. However, combined with water under certain conditions, it is involved in a electricity generating reaction 	that emits water. Fuel cells are relying on this principle to generate clean energy. They offer sustainable solutions..."
+  **STATEMENT**
 
+  "Dihydrogen is the most abundant gas in the solar system in terms of molar numbers. It is present on earth only in small quantities and hard to preserve. However, combined with water under certain conditions, it is involved in a electricity generating reaction 	that emits water. Fuel cells are relying on this principle to generate clean energy. But some questions remain:</br>
+  * How does a fuel cell work?
+  * What can it be used for?
+  * Where does hydrogen come from?
+  * Is there a market related? What stage has it reached?
+  * How can governments support hydrogen power?
+  * What are the potential evolutions for the product and the market?
+
+  You can find answers to those questions in the Fuel Cell Industry Analysis Report 2015"
 
 4. Make the presentation</br>
 	Team presentation
