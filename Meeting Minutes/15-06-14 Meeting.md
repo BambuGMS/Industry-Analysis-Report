@@ -43,7 +43,7 @@ Meeting Minutes
 
 3. Write the 30 seconds Statement</br>
 	NO
-	Start with saying 
+	Start with saying
 
 "Dihydrogen is the most abundant gas in the solar system in terms of molar numbers. It is present on earth only in small quantities and hard to preserve. However, combined with water under certain conditions, it is involved in a electricity generating reaction 	that emits water. Fuel cells are relying on this principle to generate clean energy. They offer sustainable solutions..."
 
@@ -69,4 +69,4 @@ Meeting Minutes
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|
 |----------------|----------------|---------------|
-| Signed |  |  |
+| Signed |  | Signed |
