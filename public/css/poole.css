@@ -235,8 +235,9 @@ img {
 }
 
 img.resize{
-   max-width:30%;
-   max-height:30%;
+  display: inline
+  max-width:30%;
+  max-height:30%;
 }
 
 /* Tables */
