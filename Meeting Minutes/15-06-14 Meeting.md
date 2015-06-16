@@ -48,13 +48,9 @@ Meeting Minutes
 3. Write the 30 seconds Statement</br>
 	NO
 	Start with saying
-<<<<<<< HEAD
-=======
-
   **STATEMENT**
->>>>>>> 90dc50da63b3e245167c8987a2b1375854b6edfb
 
-  "Dihydrogen is the most abundant gas in the solar system in terms of molar numbers. It is present on earth only in small quantities and hard to preserve. However, combined with water under certain conditions, it is involved in a electricity generating reaction 	that emits water. Fuel cells are relying on this principle to generate clean energy. But some questions remain:</br>
+  "Dihydrogen is the most abundant gas in the solar system in terms of molar numbers. It is present on earth only in small quantities and hard to preserve. However, combined with water under certain conditions, it is involved in a electricity generating reaction 	that emits water. Fuel cells are relying on this principle to generate clean energy. This raises several questions:</br>
   * How does a fuel cell work?
   * What can it be used for?
   * Where does hydrogen come from?
@@ -85,8 +81,5 @@ Meeting Minutes
 
 |**Benoit Serot** |**Pongsathorn Tiranun**|**Konstantin Neumann**|
 |----------------|----------------|---------------|
-<<<<<<< HEAD
+
 | Signed |  | Signed |
-=======
-| Signed |  |  |
->>>>>>> 90dc50da63b3e245167c8987a2b1375854b6edfb
