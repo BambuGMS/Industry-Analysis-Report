@@ -3,8 +3,6 @@ title: Market Perspective
 layout: page
 ---
 
-Market Perspective
-
 The market of fuel cells is moving in a positive direction, as there are many new fuel cell companies formed in this few years. The major companies were also found to be very  active in interacting and cooperating with those of different industries to innovate many interesting products. This resulted in generating a colorful market with a variety of products,the market is divided into three subcategories similar to the products' classification. They are
 
 •	Transport Power market</br>
