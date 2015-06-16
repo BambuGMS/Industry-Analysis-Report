@@ -3,8 +3,6 @@ title: Product Description
 layout: page
 ---
 
-Product Perspective
-
 The basic principle underlying in the fuel cell technology is to combine oxygen and hydrogen to produce electricity and water. As well as a battery, it provides electricity out of a chemical reaction. The main difference lies in the fact that a fuel cell uses an external sources of hydrogen and oxygen to keep running.
 Fuel cells can provide an output power in a range from 1mW to 5kW. They therefore have large potential applications. Those applications can be sorted out according to the following categories:
 
